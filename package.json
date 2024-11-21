@@ -1,0 +1,13 @@
+{
+  "name": "serialize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "run.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./run.js",
+    "report": "npm run start > ./report.txt"
+  },
+  "author": "",
+  "license": "ISC"
+}
